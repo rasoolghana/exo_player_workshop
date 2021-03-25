@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExoPlayerWorkshop</string>
+    <string name="play_hls">Play HLS Video</string>
+    <string name="play_dash">Play DASH Video With Subtitle</string>
+    <string name="player_forward">5 Sec Forward</string>
+    <string name="player_rewind">5 Sec Rewind</string>
+</resources>
